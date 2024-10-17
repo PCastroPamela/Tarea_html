@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Mi Primer Sitio Web</title>
+   </head>
+   <body>
+    <header>
+        <h1>Gatos ¿Realmente son indiferentes?</h1>
+      </header>
+      <main><!-- Contenido de la página va aquí-->
+        <section>
+            <h2>Algunas verdades gatunas</h2>
+            <article>
+                <h3>¡Oh,los gatos!</h3>
+                <img src="./cat-6463284_640.jpg">
+                <div>
+                    <p>Expertos en el arte de la indiferencia, estos felinos han perfeccionado el acto de no dar una patita desde tiempos inmemoriales</p>
+                    <p>Dicen que el secreto de su encanto está precisamente en esa actitud relajada y desinteresada.</p>
+                </div>
+                </article>
+            </section>
+            <hr/>
+            <article>
+                <h3>La Indiferencia de los Gatos: Un Encanto Inigualable</h3>
+                <p> los gatos exhiben una actitud reservada y a menudo distante. Pero, ¿a qué se debe esta conducta?</p>
+                <ol>
+                    <li>Independencia Innata</li>
+                    <li>Comunicación Sutil</li>
+                    <li> animales territoriales y muy apegados a sus rutinas</li>
+                </ol>
+            </article>
+            <hr/>
+            <article>
+                <h3>Conclusión</h3>
+                <p> ¿Alguna vez has observado cómo tu gato muestra su afecto de manera sutil?</p>
+                <ul>
+                    <li>una manifestación de su naturaleza independiente </li>
+                    <li>su forma única de relacionarse</li>
+                    <li>capaces de formar vínculos profundos con sus dueños<li>
+                </ul>
+            </article>
+        </main>
+        <footer>
+            <p>gracias por visitar mi primer pagina web</p>
+            <a href="./Contacto.html">Formulario de Contacto</a>
+        </footer>
+</body>
+</html>
